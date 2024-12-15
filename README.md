@@ -119,3 +119,7 @@ Backend:
 Deploy your Node.js backend using services like Heroku or AWS.
 
 Set environment variables on the deployment platform and configure your app to use them.
+
+Deployed Link: https://shopplus-mern-ecom.onrender.com
+
+Deployed API: https://shopplus-ecom-backend.onrender.com
