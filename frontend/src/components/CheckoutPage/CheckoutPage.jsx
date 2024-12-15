@@ -109,7 +109,7 @@ const CheckoutPage = ({ clientSecret, cart, onPaymentSuccess }) => {
       onPaymentSuccess();
 
       setTimeout(() => {
-      navigate('/order-confirmation');
+      navigate('/order-confirmationgit');
     }, 4000);
     }
   };
